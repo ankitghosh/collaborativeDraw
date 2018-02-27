@@ -1,0 +1,15 @@
+{
+  "name": "drawapp",
+  "version": "1.0.0",
+  "description": "Collabarative APP",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4"
+  },
+  "author": "Ankit Ghosh",
+  "license": "ISC"
+}
